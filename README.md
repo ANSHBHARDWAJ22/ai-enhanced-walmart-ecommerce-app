@@ -67,6 +67,8 @@ Simulates market analysis using **demographic data, competitor mapping, and traf
 ---
 
 ### 🎙️ Vapi AI Voice Assistant
+<img width="800" height="583" alt="Screenshot 2025-07-18 163730" src="https://github.com/user-attachments/assets/b28506b5-f4a9-461a-870c-5167d526dc4d" />
+
 Conversational AI with **multi-turn voice recognition** and **context retention**:  
 ✅ Handles product inquiries, comparison requests, and in-aisle navigation  
 ✅ Achieves **92% resolution rate**  
