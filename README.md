@@ -28,7 +28,8 @@ A full-featured e-commerce website built with Flask and MongoDB, designed to rep
 - **Data Validation**: Comprehensive input validation and sanitization
 
 ## 🧠 AI/ML-Powered Features 
-<img width="1024" height="1536" alt="20250718_1641_AI E-commerce Features Showcase_simple_compose_01k0ekkszcefsa8pvwgsrjjrqb" src="https://github.com/user-attachments/assets/e17d3cbb-4ce0-486c-8baa-31ef623e653c" />
+<img src="https://github.com/user-attachments/assets/e17d3cbb-4ce0-486c-8baa-31ef623e653c" alt="AI E-commerce Features" width="600"/>
+
 
 
 Our Walmart-inspired e-commerce site goes beyond traditional functionality by integrating intelligent AI/ML systems that enhance the user experience, drive engagement, and streamline operations.
