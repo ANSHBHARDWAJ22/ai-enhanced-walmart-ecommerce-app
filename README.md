@@ -1,4 +1,4 @@
-# Walmart Clone E-commerce Application
+# Walmart E-commerce Application
 
 A full-featured e-commerce website built with Flask and MongoDB, designed to replicate the core functionality of Walmart's online shopping platform.
 
