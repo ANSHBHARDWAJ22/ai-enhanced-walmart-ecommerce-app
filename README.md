@@ -35,6 +35,8 @@ A full-featured e-commerce website built with Flask and MongoDB, designed to rep
 Our Walmart-inspired e-commerce site goes beyond traditional functionality by integrating intelligent AI/ML systems that enhance the user experience, drive engagement, and streamline operations.
 
 ### 🔍 Smart Goal-Based Shopping Assistant
+<img width="800" height="576" alt="Screenshot 2025-07-18 163703" src="https://github.com/user-attachments/assets/670f06e4-c90b-4841-9834-434dbc01893b" />
+
 Uses **Natural Language Processing (NLP)** to interpret customer intentions and shopping goals.  
 ✅ Delivers product recommendations with **85% higher relevance scores**  
 ✅ Combines purchase history with user preferences  
@@ -43,6 +45,8 @@ Uses **Natural Language Processing (NLP)** to interpret customer intentions and 
 ---
 
 ### 🧠 Semantic Product Search (Search 2.0)
+<img width="800" height="582" alt="Screenshot 2025-07-18 163710" src="https://github.com/user-attachments/assets/7505db53-eca0-4fef-b32d-e5be9a17f681" />
+
 Powered by **vector embeddings and contextual understanding**, this feature improves search accuracy:  
 ✅ Delivers **40% more accurate results** by understanding semantic meaning behind queries  
 ✅ Leverages **BERT-based models** for advanced intent matching  
@@ -51,6 +55,8 @@ Powered by **vector embeddings and contextual understanding**, this feature impr
 ---
 
 ### ⏰ Smart Reorder Reminder System
+<img width="800" height="577" alt="Screenshot 2025-07-18 163716" src="https://github.com/user-attachments/assets/d7dc4c8a-a1f6-45b8-9e62-7df5793fff74" />
+
 Analyzes user consumption patterns with **ML time-series models** to optimize replenishment notifications:  
 ✅ **93% accuracy** in reminder alerts  
 ✅ Increased repeat purchase rates by **27%**  
@@ -59,6 +65,8 @@ Analyzes user consumption patterns with **ML time-series models** to optimize re
 ---
 
 ### 🌍 Walmart Expansion Planning Bot
+<img width="800" height="572" alt="Screenshot 2025-07-18 163723" src="https://github.com/user-attachments/assets/bb354298-797e-4f92-b1e9-d1a88f17f88b" />
+
 Simulates market analysis using **demographic data, competitor mapping, and traffic patterns**:  
 ✅ Offers **18% improved ROI** through intelligent location planning  
 ✅ Supports geospatial analysis and retail decision modeling  
